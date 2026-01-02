@@ -53,7 +53,7 @@ pip install -r requirements.txt
    - Copy your bot token
 
 4. **Configure the bot**
-   - Open `mod_bot.py`
+   - Open `guardian.py`
    - Replace `YOUR_BOT_TOKEN_HERE` with your bot token
    - Replace `LOG_CHANNEL_ID` with your logging channel ID
 
