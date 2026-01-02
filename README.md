@@ -146,5 +146,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Multi-language support
 
 ---
-
+Buy me coffe :) 
+BTC bc1qm76xshtu3edw55fjrwr890n2txkzefn29rgy29
+ETH 0x91a31F72E917beE0eBC04Dc8A821DEC634009E56
 **Protect your Discord server with automated security monitoring!** 🛡️
