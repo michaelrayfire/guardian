@@ -111,14 +111,14 @@ SHA-256 hashes allow you to identify known malicious files and track file distri
 
 ### Persistent Storage
 All scanned files are saved locally for evidence and further analysis if needed.
-
+or ran inside a vm or the cloud 
 ## ⚠️ Important Notes
 
 - The bot requires **Message Content Intent** to be enabled in the Discord Developer Portal
 - Scanned files are stored in `./scanned_files/` - manage disk space accordingly
 - This bot logs ALL messages - ensure compliance with your server's privacy policy
 - Administrator permissions are required for setup commands
-
+- recommend running it on a VM or cloud server (aws, digital ocean, etc) so it stays online 24/7 and keeps your main machine safe from any sketchy files it downloads
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
