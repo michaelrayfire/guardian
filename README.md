@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 1. **Start the bot**
 ```bash
-python mod_bot.py
+python guardian.py
 ```
 
 2. **Set up logging channel**
@@ -82,7 +82,7 @@ python mod_bot.py
 
 ## ⚙️ Configuration
 
-You can customize these settings in `mod_bot.py`:
+You can customize these settings in `guardian.py`:
 
 ```python
 LOG_CHANNEL_ID = 123456789  # Your log channel ID
@@ -95,7 +95,7 @@ SCAN_DIR = './scanned_files'  # Directory for storing scanned files
 
 ```
 discord-security-bot/
-├── mod_bot.py          # Main bot script
+├── guardian.py          # Main bot script
 ├── requirements.txt    # Python dependencies
 ├── README.md          # This file
 └── scanned_files/     # Folder for downloaded files (created automatically)
