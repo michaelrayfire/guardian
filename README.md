@@ -36,8 +36,8 @@ A powerful Discord moderation bot that provides comprehensive message logging an
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/discord-security-bot.git
-cd discord-security-bot
+git clone https://github.com/michaelrayfire/guardian.git
+cd guardian
 ```
 
 2. **Install dependencies**
